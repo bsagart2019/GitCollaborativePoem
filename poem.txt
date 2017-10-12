@@ -1,2 +1,3 @@
 roses are red
 Some fruits are also red
+violets are blue roses are red
